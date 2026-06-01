@@ -1,0 +1,1 @@
+Information theory studies the quantification, storage and communication of information. A central measure is the entropy of a source, which sets the lower bound on the average codeword length for any uniquely decodable code. Shannon's source coding theorem states that the entropy is the limit of lossless compression.

@@ -1,0 +1,1 @@
+- [Project: Shannon codes course task](project_shannon_codes.md) — 信息论课程作业，2人组 PK，需中英文文本自动编解码
