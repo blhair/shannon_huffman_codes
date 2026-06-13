@@ -1,0 +1,294 @@
+[
+  {
+    "file": "badminton.txt",
+    "kind": "中文",
+    "chars": 1521,
+    "orig_bytes": 4258,
+    "alphabet": 499,
+    "H_bits": 8.048177649480568,
+    "rows": [
+      [
+        "我",
+        "Shannon",
+        2,
+        {
+          "L": 8.447074293228196,
+          "eta": 0.9527769462064026,
+          "stream": 1606,
+          "container": 6054,
+          "container_name": ".shc(自包含: canonical码表+位流)",
+          "prefix": true,
+          "lossless": true,
+          "t_enc": 0.0001269000058528036,
+          "t_dec": 0.0014008000143803656,
+          "note": ""
+        }
+      ],
+      [
+        "对手",
+        "Shannon",
+        2,
+        {
+          "L": 8.447074293228196,
+          "eta": 0.9527769462064026,
+          "stream": 1607,
+          "container": 12464,
+          "container_name": "位流(.bin)+外置文本码表",
+          "prefix": false,
+          "lossless": false,
+          "t_enc": 0.0006445000180974603,
+          "t_dec": NaN,
+          "note": "解码崩溃: 无效比特流"
+        }
+      ],
+      [
+        "我",
+        "Huffman",
+        2,
+        {
+          "L": 8.092702169625296,
+          "eta": 0.9944981887123137,
+          "stream": 1539,
+          "container": null,
+          "container_name": ".bits + .codebook.json(非紧凑)",
+          "prefix": true,
+          "lossless": true,
+          "t_enc": 0.0001370999962091446,
+          "t_dec": 0.001358899986371398,
+          "note": "初版无紧凑二进制容器"
+        }
+      ],
+      [
+        "对手",
+        "Huffman",
+        2,
+        {
+          "L": 8.092702169625278,
+          "eta": 0.9944981887123159,
+          "stream": 1539,
+          "container": 4988,
+          "container_name": ".huff(自包含: 头+序列化树+CRC32+位流)",
+          "prefix": true,
+          "lossless": true,
+          "t_enc": 0.005144700000528246,
+          "t_dec": 0.004144800011999905,
+          "note": ""
+        }
+      ],
+      [
+        "我",
+        "Huffman",
+        3,
+        {
+          "L": 5.117028270874478,
+          "eta": 0.9923405680575431,
+          "stream": 1946,
+          "container": null,
+          "container_name": ".bits + .codebook.json(非紧凑)",
+          "prefix": true,
+          "lossless": true,
+          "t_enc": 0.0001181000261567533,
+          "t_dec": 0.0009477999992668629,
+          "note": "初版无紧凑二进制容器"
+        }
+      ],
+      [
+        "对手",
+        "Huffman",
+        3,
+        {
+          "L": 5.11702827087448,
+          "eta": 0.9923405680575428,
+          "stream": 1946,
+          "container": 4897,
+          "container_name": ".huff(自包含: 头+序列化树+CRC32+位流)",
+          "prefix": true,
+          "lossless": true,
+          "t_enc": 0.0037991999997757375,
+          "t_dec": 0.004347600013716146,
+          "note": ""
+        }
+      ],
+      [
+        "我",
+        "Huffman",
+        4,
+        {
+          "L": 4.0933596318211904,
+          "eta": 0.9830772731175621,
+          "stream": 1557,
+          "container": null,
+          "container_name": ".bits + .codebook.json(非紧凑)",
+          "prefix": true,
+          "lossless": true,
+          "t_enc": 0.0001218999968841672,
+          "t_dec": 0.0008225000055972487,
+          "note": "初版无紧凑二进制容器"
+        }
+      ],
+      [
+        "对手",
+        "Huffman",
+        4,
+        {
+          "L": 4.0933596318211904,
+          "eta": 0.9830772731175621,
+          "stream": 1557,
+          "container": 4342,
+          "container_name": ".huff(自包含: 头+序列化树+CRC32+位流)",
+          "prefix": true,
+          "lossless": true,
+          "t_enc": 0.002543299982789904,
+          "t_dec": 0.0023437000054400414,
+          "note": ""
+        }
+      ]
+    ]
+  },
+  {
+    "file": "beethoven_en.txt",
+    "kind": "英文",
+    "chars": 3209,
+    "orig_bytes": 3213,
+    "alphabet": 68,
+    "H_bits": 4.642819633320005,
+    "rows": [
+      [
+        "我",
+        "Shannon",
+        2,
+        {
+          "L": 5.213150514178872,
+          "eta": 0.8905976569623943,
+          "stream": 2092,
+          "container": 2580,
+          "container_name": ".shc(自包含: canonical码表+位流)",
+          "prefix": true,
+          "lossless": true,
+          "t_enc": 0.00015559999155811965,
+          "t_dec": 0.0018953000253532082,
+          "note": ""
+        }
+      ],
+      [
+        "对手",
+        "Shannon",
+        2,
+        {
+          "L": 5.213150514178872,
+          "eta": 0.8905976569623943,
+          "stream": 2093,
+          "container": 3070,
+          "container_name": "位流(.bin)+外置文本码表",
+          "prefix": false,
+          "lossless": false,
+          "t_enc": 0.0004710000066552311,
+          "t_dec": NaN,
+          "note": "解码崩溃: 无效比特流"
+        }
+      ],
+      [
+        "我",
+        "Huffman",
+        2,
+        {
+          "L": 4.669990651293238,
+          "eta": 0.9941817832192642,
+          "stream": 1874,
+          "container": null,
+          "container_name": ".bits + .codebook.json(非紧凑)",
+          "prefix": true,
+          "lossless": true,
+          "t_enc": 0.0001548999862279743,
+          "t_dec": 0.0017041999963112175,
+          "note": "初版无紧凑二进制容器"
+        }
+      ],
+      [
+        "对手",
+        "Huffman",
+        2,
+        {
+          "L": 4.669990651293237,
+          "eta": 0.9941817832192644,
+          "stream": 1874,
+          "container": 2225,
+          "container_name": ".huff(自包含: 头+序列化树+CRC32+位流)",
+          "prefix": true,
+          "lossless": true,
+          "t_enc": 0.0034097000025212765,
+          "t_dec": 0.004503899981500581,
+          "note": ""
+        }
+      ],
+      [
+        "我",
+        "Huffman",
+        3,
+        {
+          "L": 2.99158616391399,
+          "eta": 0.9791772279407877,
+          "stream": 2400,
+          "container": null,
+          "container_name": ".bits + .codebook.json(非紧凑)",
+          "prefix": true,
+          "lossless": true,
+          "t_enc": 0.00014769998961128294,
+          "t_dec": 0.0012132000119891018,
+          "note": "初版无紧凑二进制容器"
+        }
+      ],
+      [
+        "对手",
+        "Huffman",
+        3,
+        {
+          "L": 2.99158616391399,
+          "eta": 0.9791772279407877,
+          "stream": 2400,
+          "container": 2687,
+          "container_name": ".huff(自包含: 头+序列化树+CRC32+位流)",
+          "prefix": true,
+          "lossless": true,
+          "t_enc": 0.002834599989000708,
+          "t_dec": 0.0031675999925937504,
+          "note": ""
+        }
+      ],
+      [
+        "我",
+        "Huffman",
+        4,
+        {
+          "L": 2.3779993767528813,
+          "eta": 0.9762028700906764,
+          "stream": 1908,
+          "container": null,
+          "container_name": ".bits + .codebook.json(非紧凑)",
+          "prefix": true,
+          "lossless": true,
+          "t_enc": 0.00021459997515194118,
+          "t_dec": 0.0010395999997854233,
+          "note": "初版无紧凑二进制容器"
+        }
+      ],
+      [
+        "对手",
+        "Huffman",
+        4,
+        {
+          "L": 2.377999376752881,
+          "eta": 0.9762028700906765,
+          "stream": 1908,
+          "container": 2175,
+          "container_name": ".huff(自包含: 头+序列化树+CRC32+位流)",
+          "prefix": true,
+          "lossless": true,
+          "t_enc": 0.002232500002719462,
+          "t_dec": 0.0025415999989490956,
+          "note": ""
+        }
+      ]
+    ]
+  }
+]
